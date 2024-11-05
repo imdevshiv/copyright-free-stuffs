@@ -7,3 +7,5 @@
 - [Open Clip Art](https://openclipart.org)
   <br>
   <img src="https://openclipart.org/image/800px/349966" width="40"/>
+
+-[Air Quality Index](https://aqicn.org/data-platform/token/)
